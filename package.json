@@ -1,0 +1,1 @@
+{"description":"make.fun ai-excited-01 entry: a colossal blue whale breaching explosively out of a mountain lake at sunset","engines":{"node":">=22"},"license":"MIT","name":"ai-excited-01-entry-v8","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
